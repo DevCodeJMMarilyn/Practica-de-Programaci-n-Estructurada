@@ -1,1 +1,1 @@
-# Practica-de-Programaci-n-Estructurada
+# Practica-de-Programacion-Estructurada
